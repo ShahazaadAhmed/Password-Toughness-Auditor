@@ -124,4 +124,5 @@ suggestion_label.pack(pady=5)
 check_button = ctk.CTkButton(main_frame, text="Check Strength", height=35, command=check_password)
 check_button.pack(pady=15)
 
+
 app.mainloop()
